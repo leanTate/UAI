@@ -1,0 +1,23 @@
+Ejercicio Nro. 2
+Un administrador de consorcios de edificios atiende a 5 edificios.
+ Como todos los edificios 
+fueron realizados por medio de planes de fomento, son todos iguales y tienen
+ cada uno de ellos 5 departamentos de tres ambientes.
+Mensualmente se realizan distintas tareas de mantenimiento en estos edificios debiendo ser
+ las mismas pagadas en forma proporcional en partes iguales por los habitantes de cada uno de ellos.
+Cada vez que se realiza un arreglo se obtiene la siguiente información 
+Nro. de factura
+Nro. de edificio
+Código del proveedor
+Monto de la factura
+Fecha de vencimiento
+
+La carga de datos finaliza con Nro. de factura igual a 0.
+Los proveedores son 5, ascensorista, electricista, pintor, plomero y limpieza.
+Estos proveedores son los mismos para todos los edificios.
+Se desea saber:
+A.	Monto total gastado por cada edificio +
+B.	Mayor gasto efectuado, a que edificio y proveedor pertenece +
+C.	Valor a pagar en calidad de expensas +
+D.	Proveedor que no trabajo en ninguno de los edificios +
+E.	Valor promedio de las facturas +
