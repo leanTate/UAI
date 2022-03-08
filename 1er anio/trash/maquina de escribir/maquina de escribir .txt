@@ -1,0 +1,25 @@
+Tablero = 20x20 
+Arriba= arriba (+1)
+Abajo= abajo (-1)
+Izquierda= izquierda (-1)
+Derecha=derecha (+1)
+If pintar=rojo (pinta rojo) else (azul)
+If lápiz=on (pinta) else (no pinta)
+
+Start izquierda 1x1
+Lapiz = off
+Abajo = -7
+Derecha= (+1); lápiz on; pintar (rojo); abajo (-6); lápiz (off);
+Derecha= (+1); arriba (+3); lápiz(on); pintar (rojo); lápiz (off);
+Derecha= (+1); arriba (+3); lápiz (on); pintar (rojo); abajo (-6); lápiz (off);
+Derecha= (+2); lápiz on; pintar (azul); arriba (+6); lápiz (off);
+Derecha= (+1); lápiz on; pintar (azul); lápiz (off); abajo (-6); lápiz(on); lápiz (off);
+Derecha= (+1); lápiz on; pintar (azul); arriba (+6); lápiz (off);
+Derecha= (+2); lápiz on; pintar (rojo); arriba (+6); lápiz (off);
+Derecha= (+1); abajo (-6); lápiz on; pintar (rojo); lápiz (off);
+Derecha= (+1); lápiz on; pintar (rojo); lápiz (off);
+Derecha= (+2); lápiz on; pintar (azul); arriba (+6); lápiz (off);
+Derecha= (+1); lápiz on; pintar (azul); lápiz (off); abajo (-3); lápiz(on); lápiz (off); abajo (-3);
+Derecha= (+1); lápiz on; pintar (azul); arriba (+6); lápiz (off);
+fin
+

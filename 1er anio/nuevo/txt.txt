@@ -1,0 +1,23 @@
+/*La empresa concesionaria de las autopistas estableció 3 categorías de vehículos , para el cobro de los peajes de sus distintas rutas de acceso a 
+la capital federal.
+Tiene actualmente la concesión de 2 autopistas
+
+Cada vez que realiza un ticket se tiene la siguiente información
+
+Nro de ticket
+Nro de autopista
+Categoría del vehículo
+fecha
+Hora ( en minutos partiendo de las 0 de cada dia)
+Valor
+ 
+Se desea saber al termino de cada dia de trabajo ( nro de ticket = 0 ) lo siguiente
+
+
+1.	Recaudación general de la empresa
+2.	Autopista por donde pasaron mas vehículos
+3.	Porcentaje en pesos de lo abonado por cada tipo de vehículo 
+    sobre el total
+4.	Autopista mas rentable
+5.	A que hora se hizo el primer ticket del dia y en que autopista
+*

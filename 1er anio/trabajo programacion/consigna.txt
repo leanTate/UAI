@@ -1,0 +1,54 @@
+Una empresa de informática tiene 100 empleados. Cada uno pertenece a una determinada categoría y 
+trabajan distribuidos en 3 departamentos.
+
+
+Numero de categoría         Descripción         Sueldo
+
+
+
+1                      Analista senior       85000
+
+
+
+2                      Analista junior       40000
+
+
+
+3                      Programador        65000
+
+
+
+4                      Operador           30000
+
+
+Los datos que se tienen son: el nombre de empleado,
+ la categoría y el departamento en el que trabaja.
+
+
+
+
+Se desea saber:
+
+
+
+A.  Sueldo total a pagar por cada departamento
+
+
+
+B.  Categoría que más cobra en total 
+
+
+
+C.  Cantidad de empleados por categoría
+
+
+
+D.  Cuantos empleados trabajan en el departamento número 2.
+
+
+
+E.  Sumatoria total de sueldos a pagar por la empresa
+
+
+
+F.  Promedio de sueldos por categoría

@@ -1,0 +1,51 @@
+Una empresa de micros vende boletos a 3 destinos
+
+ 
+
+           Mar del Plata
+
+           Necochea
+
+           Bahía Blanca
+
+ 
+
+                tiene 2 clases
+
+ 
+
+           Turista           $ 25.-
+
+           Pullman         $ 40.-
+
+ 
+
+Cada vez que realiza una venta representa un asiento y 
+se tiene la siguiente información: 
+
+ 
+
+a.     número de ticket
+
+b.     número de destino
+
+c.      número de clase
+
+                                              
+
+           se desea saber
+
+ 
+
+cantidad total de boletos vendidos *
+
+promedio del valor de boleto vendido
+en dinero
+
+porcentual que representa la cantidad vendida en cada 
+clase sobre el total *
+
+cuántos boletos se vendieron a necochea en 
+pullman
+
+cuál destino es el más solicitado en total
