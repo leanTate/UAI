@@ -1,5 +1,5 @@
 # UAI
-
+## Lean
 #### COMANDS
 
 git switch parciales
